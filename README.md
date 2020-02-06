@@ -4,6 +4,8 @@ Implementation of a clustering algorithm using an agregation criterion[1] where
 clusters are formed of connected components with the smallest edges possible,
 that is, all of them are minimum spanning trees.
 
+![prim](prim.png)
+
 The hierarchy of modules is as follows
 
 clustering
