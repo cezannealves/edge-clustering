@@ -20,7 +20,9 @@ That notebook contains a demo run and visualizations.
 
 The console use is throgh stdin/out to facilitate piping:
 
-python(3) clustering.py [ ( kruskal | prim ) [ desired_number_of_clusters ] ] < data.txt > clusters.out
+```console
+$python(3) clustering.py [ ( kruskal | prim ) [ desired_number_of_clusters ] ] < data.txt > clusters.out
+```
 
 Note that this aggregation strategy has evident shortcommings wich are discussed alongside performance analysis in the [repport](relatorio2col.pdf) (in portuguese)
 
