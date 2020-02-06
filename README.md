@@ -16,7 +16,7 @@ The hierarchy of modules is as follows
 
 All the code is avaliable .py modules and as notebooks. 
 The notebooks will be "recompiled" into .py modules when running the 'clustering' notebook in jupyter.
-That notebook contains a demo run and visualizations.
+That notebook contains a [demo run and visualizations](clustering.ipynb).
 
 The console use is throgh stdin/out to facilitate piping:
 
