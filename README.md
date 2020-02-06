@@ -8,11 +8,11 @@ that is, all of them are minimum spanning trees.
 
 The hierarchy of modules is as follows
 
-    clustering
-    |---connected_components
-    |---prim
-    |---kruskall
-        |---union_find
+    clustering(.py|.ipynb)
+    |---connected_components.py
+    |---prim.py
+    |---kruskall.py
+        |---union_find.py
 
 All the code is avaliable .py modules and as notebooks. 
 The notebooks will be "recompiled" into .py modules when running the 'clustering' notebook in jupyter.
